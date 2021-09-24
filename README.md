@@ -1,4 +1,4 @@
-# Windows/x86 - Dynamic MessageBoxA PEB & Import Address Tab
+# Windows/x86 - Dynamic MessageBoxA PEB & Export Directory Table
  
 ## Description: 
 
