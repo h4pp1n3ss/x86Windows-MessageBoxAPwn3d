@@ -4,7 +4,7 @@
 ; Tested on: Microsoft Windows [Version 10.0.19042.1237]
 
 ; Description: 
-; This is a position-independent shellcode (PIC) which
+; This a shellcode which
 ; pop a MessageBox and show the text "Pwn3d by h4pp1n3ss". In order to accomplish this task the shellcode uses
 ; the PEB method to locate the baseAddress of the required module and the Export Directory Table
 ; to locate symbols. Also the shellcode uses a hash function to gather dynamically the required 
