@@ -1,4 +1,4 @@
-# (Windows/x86) Null-free Position independent shellcode (PIC) - MessageBoxA 
+# Windows/x86 - Dynamic MessageBoxA PEB & Import Address Tab
  
 ## Description: 
 
