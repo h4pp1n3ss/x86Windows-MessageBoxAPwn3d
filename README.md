@@ -17,7 +17,7 @@ symbols without worry about the length.
 
 This shellcode uses two Windows API
 
-### WinExec
+### MessageBoxA
 
 [MessageBoxA Function Prototype](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxa)
 ```c
